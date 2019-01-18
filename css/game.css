@@ -1,0 +1,16 @@
+#game html, body {
+	padding: 0;
+	margin: 0;
+	}
+#game * {
+	box-sizing: border-box;
+	}
+#game body {
+	background: #ddd;
+	padding: 50px;
+}
+#game canvas {
+	background: black;
+	margin: 0 auto;
+	display: block;
+}
